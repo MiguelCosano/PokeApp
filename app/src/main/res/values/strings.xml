@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PokeApp</string>
+
+    <!-- Content descriptions -->
+    <string name="pokemon_image_content_description">Image of</string>
+    <string name="pokeball_icon_content_description">Pokeball</string>
+    <string name="back_icon_content_description">Go back</string>
+
+    <!-- Pokémon details -->
+    <string name="pokemon_detail_height">Height</string>
+    <string name="pokemon_detail_weight">Weight</string>
+    <string name="pokemon_detail_initial_stats">Base stats</string>
+
+    <!-- Errors Home-->
+    <string name="pokemon_list_load_error">Error loading Pokémon. Check your internet connection.</string>
+    <string name="pokemon_list_load_more_error">Error loading more Pokémon.</string>
+    <string name="error_retry_button">Retry</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_dialog_title">Error</string>
+    
+    <!-- Errors Pokemon Detail -->
+    <string name="pokemon_detail_load_error">Error loading Pokémon details.</string>
+    <string name="pokemon_detail_load_error_go_back">Go back</string>
+    <string name="pokemon_detail_description_test_tag">pokemon_detail_description</string>
+    <string name="pokemon_detail_image_test_tag">pokemon_detail_image</string>
+    <string name="pokemon_detail_stats_test_tag">pokemon_detail_stats</string>
+    <string name="pokemon_detail_type_test_tag">pokemon_detail_type</string>
+    <string name="pokemon_detail_weight_and_height_tag">pokemon_detail_weight_height</string>
+    <string name="pokemon_detail_name_test_tag">pokemon_detail_name</string>
+    <string name="pokemon_detail_short_description_test_tag">pokemon_detail_short_description</string>
+
+    <!-- Test -->
+    <string name="home_loader_test_tag">home_loader</string>
+    <string name="home_bottom_loader_test_tag">home_bottom_loader</string>
+    <string name="home_error_dialog_test_tag">error_dialog</string>
+</resources>
